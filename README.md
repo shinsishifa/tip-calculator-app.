@@ -17,3 +17,4 @@ A dynamic Tip & Bill Split Calculator application built using **Flutter** and **
 
 * **Flutter** - Cross-Platform UI Toolkit
 * **Dart** - Programming Language
+[![Visit Site](https://img.shields.io/badge/Click%20Here-Visit%20Live%20Site-cyan?style=for-the-badge&logo=rocket&logoColor=black)](https://shinsishifa.github.io/tip-calculator-app/)
